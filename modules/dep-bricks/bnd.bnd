@@ -2,4 +2,5 @@ Bundle-Name: dep-bricks
 Bundle-SymbolicName: com.clavisit.clavisit.dependency.bricks
 Bundle-Version: 1.7.0
 -includeresource: package.json
+Liferay-Export-JS-Submodules: *
 Web-ContextPath: /dep-bricks

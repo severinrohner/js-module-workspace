@@ -1,3 +1,6 @@
+# Liferay Forum
+ https://web.liferay.com/de/community/forums/-/message_boards/view_message/86303557
+ https://github.com/liferay/liferay-amd-loader/issues/98
 #Use of Bricks 
 ##In JS
 ```javascript
