@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "bricks.js": "^1.7.0"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-object-rest-spread": "*",
+    "babel-preset-es2015-rollup": "*",
+    "browser-sync": "*",
+    "del": "*",
+    "gulp": "*",
+    "mkdirp": "*",
+    "node-notifier": "*",
+    "rollup": "*",
+    "rollup-plugin-babel": "*",
+    "rollup-plugin-commonjs": "*",
+    "rollup-plugin-node-resolve": "*",
+    "rollup-plugin-uglify": "*"
+  },
+  "name": "dep-bricks",
+  "version": "1.7.0"
+}
